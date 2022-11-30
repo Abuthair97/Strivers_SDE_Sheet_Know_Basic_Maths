@@ -18,6 +18,7 @@ public class CountDig {
          num =num /10;
          count++;
      }
+        
         return count;
     }
 
